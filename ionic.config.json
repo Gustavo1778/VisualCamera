@@ -1,0 +1,7 @@
+{
+  "name": "Visual-Camera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
